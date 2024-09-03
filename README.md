@@ -1,4 +1,4 @@
-# hackbio-stage0
+# HackBio Internship
 
 Objective:
 In this stage, you will be assessed on your understanding of fundamental concepts in RNA-Seq and biomarker discovery and your ability to articulate these concepts clearly and concisely.
