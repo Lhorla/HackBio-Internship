@@ -1,6 +1,8 @@
 <!--StartFragment-->
 
-Summary written by: Lhorla, Osama, Tobijayyy, Emzy247
+Summary written by: [Lhorla](https://github.com/lhorla), [Osama](https://github.com/lhorla), [Tobijayyy](https://github.com/lhorla), [Emzy247](https://github.com/lhorla)
+
+[Watch video summary](https://github.com/lhorla)
 
 # **Development of a RNA-Seq Based Prognostic Signature in Lung Adenocarcinoma** 
 
