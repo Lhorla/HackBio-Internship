@@ -11,7 +11,7 @@ As of 2015, lung cancer was the leading cause of death in the United States. Due
 
 ## **Validation of gene signature**
 
-Researchers divided 412 lung adenocarcinoma cases from TCGA into a training cohort (255 cases) and a validation cohort (157 cases). They analyzed gene expression data using univariate and multivariable Cox analysis. 96 genes with significant prognostic associations were identified, including several long non-coding RNAs (lncRNAs). The genes were streamlined to 13, using Benjamini-Hochberg false discovery rate (FDR) and Hazard ratios (HRs),  from where a model with a group of 4 genes with the highest predictive ability emerged. This predictive gene set comprised **RHOV_,_ CD109_,_ FRRS1, and __LINC00941**, which are overexpressed in Lung Adenocarcinoma.
+Researchers divided 412 lung adenocarcinoma cases from TCGA into a training cohort (255 cases) and a validation cohort (157 cases). They analyzed gene expression data using univariate and multivariable Cox analysis. 96 genes with significant prognostic associations were identified, including several long non-coding RNAs (lncRNAs). The genes were streamlined to 13, using Benjamini-Hochberg false discovery rate (FDR) and Hazard ratios (HRs),  from where a model with a group of 4 genes with the highest predictive ability emerged. This predictive gene set comprised **RHOV**, **CD109**, **FRRS1**, and **LINC00941**, which are overexpressed in Lung Adenocarcinoma.
 
 
 ## **Clinical implications**
