@@ -2,7 +2,7 @@
 
 Summary written by: [Titilola Shittu](https://github.com/lhorla), [Osama Shukri](https://github.com/osamashukri), [Oluwatobiloba Osedimilehin](https://github.com/tobijayyy), [Chukwuemeka Nwachuya](https://github.com/Megzi247) 
 
-[Watch video summary](https://github.com/lhorla)
+[Watch video summary](https://www.linkedin.com/posts/titi-shittu_biomarkerdiscovery-hackbiointernship-lungcancerresearch-activity-7238173218757308416-QDHo?utm_source=share&utm_medium=member_desktop)
 
 # **Development of a RNA-Seq Based Prognostic Signature in Lung Adenocarcinoma**
 
