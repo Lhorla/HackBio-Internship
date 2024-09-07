@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-Summary written by: [Titilola Shittu](https://github.com/lhorla), [Osama Shukri](https://github.com/osamashukri), [Oluwatobiloba Osedimilehin](https://github.com/tobijayyy), [Chukwuemeka Nwachuya](https://github.com/Megzi247) 
+Summary written by: [Titilola Shittu(Lola)](https://github.com/lhorla), [Osama Shukri(Osama)](https://github.com/osamashukri), [Oluwatobiloba Osedimilehin(Tobijayyy)](https://github.com/tobijayyy), [Chukwuemeka Nwachuya(Emzy247)](https://github.com/Megzi247) 
 
 [Watch video summary](https://www.linkedin.com/posts/titi-shittu_biomarkerdiscovery-hackbiointernship-lungcancerresearch-activity-7238173218757308416-QDHo?utm_source=share&utm_medium=member_desktop)
 
